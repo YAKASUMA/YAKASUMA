@@ -57,8 +57,12 @@ http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1667
 http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/632
 #EXTINF:0,iptvtools_34
 http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/633
+#EXTINF:0,movistar f1 iptvtools_36
+ https://live.televisiongratishd.com/tvplus2023/199_.m3u8?token=gL06B8Ov2_G4uSGeLBjhjg&expires=1616033354&ip=92.185.37.74
 #EXTINF:0,movistar golf iptvtools_36
 http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/311
+#EXTINF:0,movistar deportes iptvtools_37
+https://live.televisiongratishd.com/tvplus2023/195_.m3u8?token=NleaTodYv25me0ag_mFyMQ&expires=1616033046&ip=92.185.37.74
 #EXTINF:0,movistar# iptvtools_38
 http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/309
 #EXTINF:0,movistar toros iptvtools_39
