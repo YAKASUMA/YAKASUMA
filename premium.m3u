@@ -75,35 +75,5 @@ http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/383
 http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/622
 #EXTINF:0,movistar series iptvtools_49
 http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/654
-#EXTINF:0,blaze iptvtools_52
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/376
-#EXTINF:-1,(CANALES HBO)
-#EXTINF:-1,HBO iptvtools_54
-https://live.televisiongratishd.com/tvplus2023/31_.m3u8?token=HYQeuypxgEzxQNPDbHGIFg&expires=1616025543&ip=92.185.37.74
-#EXTINF:-1,Hbo2 iptvtools_55
-https://live.televisiongratishd.com/tvplus2023/32_.m3u8?token=x4Somkc06WTdKyQf2xD9FA&expires=1616026084&ip=92.185.37.74
-#EXTINF:-1,Hbo+ iptvtools_56
-https://live.televisiongratishd.com/tvplus2023/33_.m3u8?token=3yIvnRKzzzGAxLfK0zPS8w&expires=1616026451&ip=92.185.37.74
-#EXTINF:-1,Hbo FAMILIA iptvtools_57
-https://live.televisiongratishd.com/tvplus2023/34_.m3u8?token=TrpOPmtdl1g5muepxGLL3Q&expires=1616026611&ip=92.185.37.74
-#EXTINF:-1,Hbo SIGNATURE iptvtools_58
-https://live.televisiongratishd.com/tvplus2023/129_.m3u8?token=TYmjJVK3MOEMtDV_rFw1JQ&expires=1616026739&ip=92.185.37.74
-#EXTINF:-1,Hbo XTREME iptvtools_59
-https://live.televisiongratishd.com/tvplus2023/35_.m3u8?token=WTeKLruPyugidiivIvVxyw&expires=1616026936&ip=92.185.37.74
-#EXTINF:-1,HboPOP Piptvtools_60
-https://live.televisiongratishd.com/tvplus2023/36_.m3u8?token=Wjc2bqDUiFv8jz2UJjn1DQ&expires=1616027851&ip=92.185.37.74
-#EXTINF:-1,HboMUNDI Piptvtools_61
-https://live.televisiongratishd.com/tvplus2023/149_.m3u8?token=aho9z0mg_pdb3BLKaTjl7Q&expires=1616028305&ip=92.185.37.74
-#EXTINF:-1,FOX SPORTS 1 Piptvtools_61
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/4exvsc1yt2ix.m3u8?s=8V66R831y5BCSpOh6OTxqg&e=1616047859
-#EXTINF:-1,FOX SPORTS 2 Piptvtools_61
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/mbds0rba68cz.m3u8?s=sJ9Tu295JzBfuYhb8dmRgQ&e=1616047492
-#EXTINF:-1,FOX SPORTS 3 Piptvtools_61
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/enhoxev277nz.m3u8?s=NtICt1vpIamsPWuxFU2yqg&e=1616047648
-#EXTINF:-1,DIRECTV SPORTS Piptvtools_61
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/ukdgfwbpr7c.m3u8?s=z49iRz-61tr4EBsDjea5Iw&e=1616048075
-#EXTINF:-1,brazzer XXX Piptvtools_61
-https://live.televisiongratishd.com/tvplus2023/135_.m3u8?token=-ieT1WfjtOiKMbIQ1aSCyQ&expires=1616033693&ip=92.185.37.74
-#EXTINF:-1,afizzionados Piptvtools_61
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/c0kcxrnx5z.m3u8?s=AnAoi-tYboKvvbC9Y9SVDw&e=1616052168
+
 
