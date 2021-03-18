@@ -1,77 +1,147 @@
-<#EXTM3U
-
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/371 #Name: iptvtools_2
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/641 #Name: iptvtools_3
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1685 #Name: iptvtools_4
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/615 #Name: iptvtools_5
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/628 #Name: iptvtools_6
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1686 #Name: iptvtools_7
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/611 #Name: iptvtools_8
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/315 #Name: iptvtools_9
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1671 #Name: iptvtools_10
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1680 #Name: iptvtools_11
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1681 #Name: iptvtools_12
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/339 #Name: iptvtools_13
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/618 #Name: iptvtools_14
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/619 #Name: iptvtools_15
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/662 #Name: iptvtools_16
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/639 #Name: iptvtools_17
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/637 #Name: iptvtools_18
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/636 #Name: iptvtools_19
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/657 #Name: iptvtools_20
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/368 #Name: iptvtools_21
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/350 #Name: iptvtools_22
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/624 #Name: iptvtools_23
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1667 #Name: iptvtools_24
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/632 #Name: iptvtools_25
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/633 #Name: iptvtools_26
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/622 #Name: iptvtools_27
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/383 #Name: iptvtools_28
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/386 #Name: iptvtools_29
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/311 #Name: iptvtools_30
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1668 #Name: iptvtools_31
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/654 #Name: iptvtools_33
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/351 #Name: iptvtools_34
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/320 #Name: iptvtools_35
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/371 #Name: iptvtools_36
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/641 #Name: iptvtools_37
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1685 #Name: iptvtools_38
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/615 #Name: iptvtools_39
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/628 #Name: iptvtools_40
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1686 #Name: iptvtools_41
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/611 #Name: iptvtools_42
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/351 #Name: iptvtools_43
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/315 #Name: iptvtools_44
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/320 #Name: iptvtools_45
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1671 #Name: iptvtools_46
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1680 #Name: iptvtools_47
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1681 #Name: iptvtools_48
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/339 #Name: iptvtools_49
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/618 #Name: iptvtools_50
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/619 #Name: iptvtools_51
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/662 #Name: iptvtools_52
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/639 #Name: iptvtools_53
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/637 #Name: iptvtools_54
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/636 #Name: iptvtools_55
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/657 #Name: iptvtools_56
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/368 #Name: iptvtools_57
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/623 #Name: iptvtools_59
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/350 #Name: iptvtools_61
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/624 #Name: iptvtools_62
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/306 #Name: iptvtools_63
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1667 #Name: iptvtools_64
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/632 #Name: iptvtools_65
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/633 #Name: iptvtools_66
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/642 #Name: iptvtools_67
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/311 #Name: iptvtools_68
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1668 #Name: iptvtools_71
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/386 #Name: iptvtools_73
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/383 #Name: iptvtools_75
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/622 #Name: iptvtools_78
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/654 #Name: iptvtools_81
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/959 #Name: iptvtools_83
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/376 #Name: iptvtools_84
-http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1649 #Name: iptvtools_85
-
-
-
+#EXTM3U
+#EXTINF:-1,iptvtools_1
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1,iptvtools_2
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/371
+#EXTINF:-1,iptvtools_3
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/641
+#EXTINF:-1,iptvtools_4
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1685
+#EXTINF:-1,iptvtools_5
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/615
+#EXTINF:-1,iptvtools_6
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/628
+#EXTINF:-1,iptvtools_7
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1686
+#EXTINF:-1,iptvtools_8
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/611
+#EXTINF:-1,iptvtools_9
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/315
+#EXTINF:-1,iptvtools_10
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1671
+#EXTINF:-1,iptvtools_11
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1680
+#EXTINF:-1,iptvtools_12
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1681
+#EXTINF:-1,iptvtools_13
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/339
+#EXTINF:-1,iptvtools_14
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/618
+#EXTINF:-1,iptvtools_15
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/619
+#EXTINF:-1,iptvtools_16
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/662
+#EXTINF:-1,iptvtools_17
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/639
+#EXTINF:-1,iptvtools_18
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/637
+#EXTINF:-1,iptvtools_19
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/636
+#EXTINF:-1,iptvtools_20
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/657
+#EXTINF:-1,iptvtools_21
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/368
+#EXTINF:-1,iptvtools_22
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/350
+#EXTINF:-1,iptvtools_23
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/624
+#EXTINF:-1,iptvtools_24
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1667
+#EXTINF:-1,iptvtools_25
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/632
+#EXTINF:-1,iptvtools_26
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/633
+#EXTINF:-1,iptvtools_27
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/622
+#EXTINF:-1,iptvtools_28
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/383
+#EXTINF:-1,iptvtools_29
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/386
+#EXTINF:-1,iptvtools_30
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/311
+#EXTINF:-1,iptvtools_31
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1668
+#EXTINF:-1,iptvtools_33
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/654
+#EXTINF:-1,iptvtools_34
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/351
+#EXTINF:-1,iptvtools_35
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/320
+#EXTINF:-1,iptvtools_36
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/371
+#EXTINF:-1,iptvtools_37
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/641
+#EXTINF:-1,iptvtools_38
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1685
+#EXTINF:-1,iptvtools_39
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/615
+#EXTINF:-1,iptvtools_40
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/628
+#EXTINF:-1,iptvtools_41
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1686
+#EXTINF:-1,iptvtools_42
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/611
+#EXTINF:-1,iptvtools_43
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/351
+#EXTINF:-1,iptvtools_44
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/315
+#EXTINF:-1,iptvtools_45
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/320
+#EXTINF:-1,iptvtools_46
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1671
+#EXTINF:-1,iptvtools_47
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1680
+#EXTINF:-1,iptvtools_48
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1681
+#EXTINF:-1,iptvtools_49
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/339
+#EXTINF:-1,iptvtools_50
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/618
+#EXTINF:-1,iptvtools_51
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/619
+#EXTINF:-1,iptvtools_52
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/662
+#EXTINF:-1,iptvtools_53
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/639
+#EXTINF:-1,iptvtools_54
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/637
+#EXTINF:-1,iptvtools_55
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/636
+#EXTINF:-1,iptvtools_56
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/657
+#EXTINF:-1,iptvtools_57
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/368
+#EXTINF:-1,iptvtools_59
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/623
+#EXTINF:-1,iptvtools_61
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/350
+#EXTINF:-1,iptvtools_62
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/624
+#EXTINF:-1,iptvtools_63
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/306
+#EXTINF:-1,iptvtools_64
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1667
+#EXTINF:-1,iptvtools_65
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/632
+#EXTINF:-1,iptvtools_66
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/633
+#EXTINF:-1,iptvtools_67
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/642
+#EXTINF:-1,iptvtools_68
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/311
+#EXTINF:-1,iptvtools_71
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1668
+#EXTINF:-1,iptvtools_73
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/386
+#EXTINF:-1,iptvtools_75
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/383
+#EXTINF:-1,iptvtools_78
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/622
+#EXTINF:-1,iptvtools_81
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/654
+#EXTINF:-1,iptvtools_83
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/959
+#EXTINF:-1,iptvtools_84
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/376
+#EXTINF:-1,iptvtools_85
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1649
