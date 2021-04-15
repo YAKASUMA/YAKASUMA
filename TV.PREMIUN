@@ -2,6 +2,98 @@
 
 #EXTINF:-1,|ESP| ESPAÑA group-title="CINE Y SERIES"
 
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel" tvg-logo="https://i.ibb.co/TkZJ6QZ/fox-ch-NNEL.png" group-title="CINE Y SERIES",Fox Channel
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=22|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.ibb.co/0VB8CyB/aye.png" group-title="CINE Y SERIES",A&E
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=23|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.ibb.co/2MCb4sr/tnt-hd.png" group-title="CINE Y SERIES",TNT
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=85|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://i.ibb.co/NsbJHWr/tnt-series.png" group-title="CINE Y SERIES",TNT Series
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=86|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.ibb.co/hLy51jh/Imagen3.png" group-title="CINE Y SERIES",FX
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=87|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="https://i.ibb.co/rpyY4Qp/fxm.png" group-title="CINE Y SERIES",FX Movies
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=88|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="https://i.ibb.co/9G1gCDZ/universal-chanel.png" group-title="CINE Y SERIES",Universal Channel
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=89|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://i.ibb.co/nkm4jYj/Imagen17.png" group-title="CINE Y SERIES",Golden
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=90|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="https://i.ibb.co/7kh8xCd/Imagen16.png" group-title="CINE Y SERIES",Golden Edge
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=91|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Golden plus" tvg-logo="https://i.ibb.co/0qW7BDG/Imagen15.png" group-title="CINE Y SERIES",Golden plus
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=92|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="https://i.ibb.co/b7XRt5n/Golden-premier.png" group-title="CINE Y SERIES",Golden Premier
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=93|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://i.ibb.co/pzQbj37/warner.png" group-title="CINE Y SERIES",Warner Channel
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=95|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://i.ibb.co/CMVfhqf/space-hd.png" group-title="CINE Y SERIES",Space
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=96|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="https://fotos.subefotos.com/1bda58d2e59f5da529dd9c63fe7ccb9co.png" group-title="CINE Y SERIES",De Pelicula Plus
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=97|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://i.ibb.co/ydkbhXX/Imagen12.png" group-title="CINE Y SERIES",De Pelicula
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=98|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://i.ibb.co/2ZLvMp6/Imagen52.png" group-title="CINE Y SERIES",Paramount Channel
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=99|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.ibb.co/VqrCrf5/Imagen10.png" group-title="CINE Y SERIES",TCM
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=101|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://i.ibb.co/jT8CD6k/studio-universal.png" group-title="CINE Y SERIES",Studio Universal
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=102|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://fotos.subefotos.com/97366c073fa1496913bbe2fb2e0ca11bo.png" group-title="CINE Y SERIES",DHE
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=103|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Claro cinema" tvg-logo="https://i.ibb.co/KFbJ8q7/claro-cinema.png" group-title="CINE Y SERIES",Claro cinema
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=104|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/jgf1107/Imagen2.png" group-title="CINE Y SERIES",Cinecanal
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=105|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/SQ6z0V7/cinemax.png" group-title="CINE Y SERIES",Cinemax
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=106|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://i.ibb.co/pjqcv1N/cinelatino.png" group-title="CINE Y SERIES",Cine Latino
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=107|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://fotos.subefotos.com/26df805e38a2af37f649d36ba357756eo.png" group-title="CINE Y SERIES",Sony
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=109|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://i.ibb.co/5xJyrVr/mc.png" group-title="CINE Y SERIES",MC
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=110|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://i.ibb.co/J5cwqW0/Syfy.png" group-title="CINE Y SERIES",SYFY
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=108|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.ibb.co/HrsWGmv/Imagen97.png" group-title="CINE Y SERIES",AXN
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=25|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Multipremier
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=315|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="europa europa" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",europa europa
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=317|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/qdk1T1C/hbo.png" group-title="CINE Y SERIES",HBO
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=112|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Pwd98hH/hbo2-logo.png" group-title="CINE Y SERIES",HBO 2
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=113|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/DQsLd1d/hbo-family.png" group-title="CINE Y SERIES",HBO Family
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=114|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/1zwrGyt/hbo-plus.png" group-title="CINE Y SERIES",HBO Plus
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=115|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/hKns7j1/Imagen9.png" group-title="CINE Y SERIES",HBO Signature
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=116|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="https://i.ibb.co/ZVt7JSm/hbo-mundi.png" group-title="CINE Y SERIES",HBO Mundi
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=117|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="HBO pop" tvg-logo="https://i.ibb.co/0mxSD3f/hbo-pop.png" group-title="CINE Y SERIES",HBO pop
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=118|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/TBvJPv6/hbo-extreme.png" group-title="CINE Y SERIES",HBO Xtreme
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=119|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Series" tvg-logo="https://i.ibb.co/93SVF0z/fox-series.png" group-title="CINE Y SERIES",Fox Series
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=120|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="https://i.ibb.co/g9qFr4B/fox-movies.png" group-title="CINE Y SERIES",Fox Movies
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=121|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema" tvg-logo="https://i.ibb.co/7kzb4TT/fox-cinema.png" group-title="CINE Y SERIES",Fox Cinema
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=122|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action" tvg-logo="https://i.ibb.co/526mkgV/fox-action.png" group-title="CINE Y SERIES",Fox Action
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=123|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Classics" tvg-logo="https://i.ibb.co/1q8w2fB/fox-classics.png" group-title="CINE Y SERIES",Fox Classics
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=124|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family" tvg-logo="https://i.ibb.co/BNYLWhj/fox-family.png" group-title="CINE Y SERIES",Fox Family
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=125|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy" tvg-logo="https://i.ibb.co/SxpykXh/Imagen5.png" group-title="CINE Y SERIES",Fox Comedy
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=126|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINEAR - 22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
@@ -486,6 +578,35 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NIckelodeon" tvg-logo="https://i.ibb.co/PQ0XX5C/Imagen57.png" group-title="INFANTIL",NIckelodeon
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=56|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4FPP6NM/Nick-jr.png" group-title="INFANTIL",Nick Jr
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=57|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="NIck 2" tvg-logo="https://i.ibb.co/dQd8BQR/Imagen56.png" group-title="INFANTIL",NIck 2
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=58|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/MP5WRbv/CARTOON-NETWORK.png" group-title="INFANTIL",Cartoon Network
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=60|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/WnH7dLJ/Imagen82.png" group-title="INFANTIL",Discovery Kids
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=61|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/mhkRMGx/Imagen78.png" group-title="INFANTIL",Disney Channel
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=62|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr." tvg-logo="https://i.ibb.co/0BvTCyz/Imagen77.png" group-title="INFANTIL",Disney Jr.
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=63|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://i.ibb.co/kHMKwj3/Imagen76.png" group-title="INFANTIL",Disney XD
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=64|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/r4c5th2/Imagen40.png" group-title="INFANTIL",Tooncast
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=65|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="https://i.ibb.co/z4nswhg/Imagen59.png" group-title="INFANTIL",Nat Geo Kids
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=66|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/J747HFc/BOOMERANG.png" group-title="INFANTIL",Boomerang
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=67|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Bitme" tvg-logo="https://i.ibb.co/zXbvLJC/BITME.png" group-title="INFANTIL",Bitme
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=68|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.ibb.co/y0ksg1m/BABY-TV.png" group-title="INFANTIL",Baby TV
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=69|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Nick Music" tvg-logo="https://i.ibb.co/hCbVyYz/nickmusic.png" group-title="INFANTIL",Nick Music
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=59|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1,|ESP| ESPAÑA group-title="DEPORTE"
 
@@ -516,6 +637,89 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" group-title="DEPORTE", Best Cable Sports
 https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UTDN" tvg-logo="https://i.ibb.co/dLyJPBL/utdn.png" group-title="DEPORTES",UTDN
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=127|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.ibb.co/YfmKXLV/tudn.png" group-title="DEPORTES",TUDN
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=128|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados" tvg-logo="https://i.ibb.co/1JgTqWX/afizzionados.png" group-title="DEPORTES",Afizzionados
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=129|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="https://fotos.subefotos.com/4ca6c9095961295111111e43acf5c420o.png" group-title="DEPORTES",ESPN Deportes
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=130|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/M53CYp5/ESPN.png" group-title="DEPORTES",ESPN
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=131|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/Sw7hdZr/ESPN-2-ARGEN.png" group-title="DEPORTES",ESPN 2
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=132|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/mCmq9fJ/ESPN3.png" group-title="DEPORTES",ESPN 3
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=133|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="https://fotos.subefotos.com/b9a16677b171c826a568ae6ae40056fdo.png" group-title="DEPORTES",ESPN Extra
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=134|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes" tvg-logo="https://i.ibb.co/5jy9nCR/fox-deportes.png" group-title="DEPORTES",Fox Deportes
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=135|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://i.ibb.co/wRzh7nd/Imagen30.png" group-title="DEPORTES",Fox Sports
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=136|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/6WRG061/Imagen71.png" group-title="DEPORTES",Fox Sports 2
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=137|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://i.ibb.co/nRhNfQj/FOX-SPORT-3-ARG.png" group-title="DEPORTES",Fox Sports 3
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=138|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="https://fotos.subefotos.com/08cc4db4af3d35326480130ea1814c28o.png" group-title="DEPORTES",Bein Sports
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=139|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="M la liga" tvg-logo="https://i.ibb.co/mbqHk5h/MOVISTAR-LA-LIGA.png" group-title="DEPORTES",M la liga
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=140|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/TqBDzbR/nfl-network.png" group-title="DEPORTES",NFL Network
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=142|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="NBA Tv" tvg-logo="https://i.ibb.co/QCB4s2P/nba.png" group-title="DEPORTES",NBA Tv
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=144|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://i.ibb.co/FgjyXv0/WINLOGO.png" group-title="DEPORTES",Win Sports
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=149|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://i.ibb.co/HHg3h6D/WINMASGRANDE.png" group-title="DEPORTES",Win Sports +
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=150|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="https://i.ibb.co/M6jwhv7/direc-tv-sports-hd.png" group-title="DEPORTES",Directv Sports
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=151|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Adrenalina
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=153|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Aym Sports" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Aym Sports
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=154|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Claro Sports
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=155|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Gol Tv" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Gol Tv
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=157|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",TVC Deportes
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=161|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="UFC Pass" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",UFC Pass
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=162|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",ESPN Sur
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=175|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",ESPN 2 Sur
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=176|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",ESPN 3 Sur
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=177|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",ESPN Extra Sur
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=178|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fox Sports Sur
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=179|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fox Sports 2 Sur
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=180|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fox Sports 3 Sur
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=181|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="TNT sports" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",TNT sports
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=182|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Golperu" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Golperu
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=318|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Directv Sports 2
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=319|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Directv Sports Plus
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=320|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="TyC SPORTS Inter" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",TyC SPORTS Inter
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=321|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="CDF Basico" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",CDF Basico
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=322|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",CDF HD
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=323|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Gol tv ecuador" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Gol tv ecuador
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=333|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="FUTV CR" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",FUTV CR
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=334|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 
 
 
@@ -717,6 +921,68 @@ http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsd
 http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/71.ts
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/MD2Y8WN/Discivery-channel.png" group-title="CULTURA",Discovery Channel
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=70|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://i.ibb.co/dJDGmhh/Discovery-Theater-SD.png" group-title="CULTURA",Discovery Theater
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=71|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://i.ibb.co/6JCRWQR/Discovery-World.png" group-title="CULTURA",Discovery World
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=72|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://i.ibb.co/6yZwJzP/Investigation-Discovery.png" group-title="CULTURA",Investigation Discovery
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=73|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/H7L2nWb/Imagen83.png" group-title="CULTURA",Discovery Turbo
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=74|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/3dZG3NX/Discovery-Science.png" group-title="CULTURA",Discovery Science
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=75|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://i.ibb.co/HzdrRZr/Imagen68.png" group-title="CULTURA",History
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=77|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://i.ibb.co/tPcjdsV/History-2.png" group-title="CULTURA",H2
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=78|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://i.ibb.co/Jt7ZCWs/Imagen60.png" group-title="CULTURA",Nat Geo
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=79|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/C5VFY3s/Imagen58.png" group-title="CULTURA",Nat Geo Wild
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=80|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="TLC Discovery" tvg-logo="https://i.ibb.co/PQSYmhw/Imagen42.png" group-title="CULTURA",TLC Discovery
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=82|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://i.ibb.co/1Mfp4tS/el-gourmet.png" group-title="CULTURA",El Gourmet
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=83|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/WKq3CNT/Animal-Planet.png" group-title="CULTURA",Animal Planet
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=84|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Discovery Civilization
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=316|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Garage TV
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=336|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="https://i.ibb.co/PZJtbPH/BANDAMAX.png" group-title="MUSICA",Bandamax
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=145|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Teleritmo" tvg-logo="https://i.ibb.co/jMdY6hC/Imagen41.png" group-title="MUSICA",Teleritmo
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=146|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Telehit Urbano" tvg-logo="https://i.ibb.co/QDt20WW/Imagen50.png" group-title="MUSICA",Telehit Urbano
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=147|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",HTV
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=173|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",MTV
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=174|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="vh1" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",vh1
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=328|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Vh1 Classic" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",Vh1 Classic
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=329|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",VH1 HD
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=330|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",MTV Hits
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=331|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",MTV Live
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=332|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#EXTINF:-1 tvg-id="" tvg-name="Telehit Plus" tvg-logo="https://i.ibb.co/L6NLZZY/hitplus.png" group-title="MUSICA",Telehit Plus
+http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=148|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
