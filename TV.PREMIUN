@@ -1048,3 +1048,23 @@ http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=325|User-Agent=vallanse-a
 #EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",BBC World
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=326|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1, group-title="ESPAÑA", ETBEITBEUS
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:0,group-title="ESPAÑA", Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0,group-title="ESPAÑA", ESPAÑA MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTVLCOPT:network-caching=1000 group-title="ESPAÑA",TELESAFOR
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0,group-title="ESPAÑA", SP:Canal Parlamento - Madrid
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:0,group-title="ESPAÑA", ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:0, group-title="ESPAÑA",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
