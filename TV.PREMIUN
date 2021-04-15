@@ -1067,8 +1067,7 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:0,group-title="ESPAÑA",MTMAD
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8?sd=10&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on&hdntl=exp=1618601888~acl=%2fi%2fmtmad_1%40744785%2f*~data=hdntl~hmac=066fe3ca7144cfa5ef6e42f416d51dfbaa506917e617d05085fac96f8d16df22
 #EXTINF:0,group-title="ESPAÑA",CLUSTERS.PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/subtitle/en/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=daad03b9-0458-477a-8576-523c5e126253&deviceVersion=73.0.3856.415&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=901ca595-9e23-11eb-b970-0242ac110002&advertisingId=&deviceLat=40.4329&deviceLon=-3.8134&deviceDNT=0&deviceModel=web&userId=&appName=web
-
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=daad03b9-0458-477a-8576-523c5e126253&deviceVersion=73.0.3856.415&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=901ca595-9e23-11eb-b970-0242ac110002&advertisingId=&deviceLat=40.4329&deviceLon=-3.8134&deviceDNT=0&deviceModel=web&userId=&appName=web
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
