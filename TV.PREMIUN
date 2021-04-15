@@ -607,7 +607,7 @@ http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=69|User-Agent=vallanse-a-
 #EXTINF:-1 tvg-id="" tvg-name="Nick Music" tvg-logo="https://i.ibb.co/hCbVyYz/nickmusic.png" group-title="INFANTIL",Nick Music
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=59|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1,|ESP| ESPAÑA group-title="DEPORTES"
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTES", ESPN 
@@ -724,7 +724,7 @@ http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=334|User-Agent=vallanse-a
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1,|ESP| ESPAÑA group-title="24/7"
 
 #EXTINF:0,24/7 group-title="24/7",  CAILLOU 
@@ -920,7 +920,6 @@ http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsd
 #EXTVLCOPT:network-caching=1000
 http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/71.ts
 
-----------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/MD2Y8WN/Discivery-channel.png" group-title="CULTURA",Discovery Channel
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=70|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
@@ -953,7 +952,6 @@ http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=316|User-Agent=vallanse-a
 #EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Garage TV
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=336|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 
------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="https://i.ibb.co/PZJtbPH/BANDAMAX.png" group-title="MUSICA",Bandamax
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=145|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
@@ -978,7 +976,7 @@ http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=332|User-Agent=vallanse-a
 #EXTINF:-1 tvg-id="" tvg-name="Telehit Plus" tvg-logo="https://i.ibb.co/L6NLZZY/hitplus.png" group-title="MUSICA",Telehit Plus
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=148|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="https://i.ibb.co/5G7hwtS/ESTRELLAS.png" group-title="MÉXICO",Las Estrellas
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=1|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
@@ -1023,7 +1021,6 @@ http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=20|User-Agent=vallanse-a-
 #EXTINF:-1 tvg-id="" tvg-name="Tvc" tvg-logo="https://i.ibb.co/k370SCT/tvc.png" group-title="MÉXICO",Tvc
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=21|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",DW
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=164|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
@@ -1048,7 +1045,6 @@ http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=325|User-Agent=vallanse-a
 #EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",BBC World
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=326|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1, group-title="ESPAÑA", ETBEITBEUS
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
@@ -1066,7 +1062,9 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:0,group-title="ESPAÑA",MTMAD
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8?sd=10&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on&hdntl=exp=1618601888~acl=%2fi%2fmtmad_1%40744785%2f*~data=hdntl~hmac=066fe3ca7144cfa5ef6e42f416d51dfbaa506917e617d05085fac96f8d16df22
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #EXTINF:0,group-title="HBO",HBO
 https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=q0fLpmeJ9i_jrZBi3JtGNg&e=1618538943
 #EXTINF:0,group-title="HBO",HBO2
