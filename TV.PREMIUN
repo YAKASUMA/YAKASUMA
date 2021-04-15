@@ -608,34 +608,34 @@ http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=69|User-Agent=vallanse-a-
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=59|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1,|ESP| ESPAÑA group-title="DEPORTE"
+#EXTINF:-1,|ESP| ESPAÑA group-title="DEPORTES"
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTES", ESPN 
 http://ps3ultimate.com/ElUnicoLosDemasCopian/LAT?cat=latinos&ch=espn1ar&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTES", ESPN 2
 http://23.237.78.54/live-1000/263/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", GARAGE TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTES", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTES", CLARO SPORT
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTES", TENIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
-#EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
+#EXTINF:-1 group-title="DEPORTES", AMERICA SPORT
 https://www.youtube.com/watch?v=1SmKEIpmcLU
 
-#EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
+#EXTINF:-1 group-title="DEPORTES", HIPODROMO DE PALERMO
 https://www.youtube.com/watch?v=OnW5qGG8fAA
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTES", TELETRAK
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" group-title="DEPORTE", Best Cable Sports
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" group-title="DEPORTES", Best Cable Sports
 https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UTDN" tvg-logo="https://i.ibb.co/dLyJPBL/utdn.png" group-title="DEPORTES",UTDN
