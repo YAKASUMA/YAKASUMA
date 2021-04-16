@@ -1,33 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,|ESP| ESPAÑA group-title="CINE Y SERIES"
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Channel" tvg-logo="https://i.ibb.co/TkZJ6QZ/fox-ch-NNEL.png" group-title="CINE Y SERIES",Fox Channel
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=22|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.ibb.co/0VB8CyB/aye.png" group-title="CINE Y SERIES",A&E
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=23|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.ibb.co/2MCb4sr/tnt-hd.png" group-title="CINE Y SERIES",TNT
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=85|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://i.ibb.co/NsbJHWr/tnt-series.png" group-title="CINE Y SERIES",TNT Series
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=86|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.ibb.co/hLy51jh/Imagen3.png" group-title="CINE Y SERIES",FX
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=87|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="https://i.ibb.co/rpyY4Qp/fxm.png" group-title="CINE Y SERIES",FX Movies
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=88|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="https://i.ibb.co/9G1gCDZ/universal-chanel.png" group-title="CINE Y SERIES",Universal Channel
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=89|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://i.ibb.co/nkm4jYj/Imagen17.png" group-title="CINE Y SERIES",Golden
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=90|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="https://i.ibb.co/7kh8xCd/Imagen16.png" group-title="CINE Y SERIES",Golden Edge
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=91|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="Golden plus" tvg-logo="https://i.ibb.co/0qW7BDG/Imagen15.png" group-title="CINE Y SERIES",Golden plus
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=92|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="https://i.ibb.co/b7XRt5n/Golden-premier.png" group-title="CINE Y SERIES",Golden Premier
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=93|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://i.ibb.co/pzQbj37/warner.png" group-title="CINE Y SERIES",Warner Channel
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=95|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://i.ibb.co/CMVfhqf/space-hd.png" group-title="CINE Y SERIES",Space
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=96|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
+#ser-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 #EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="https://fotos.subefotos.com/1bda58d2e59f5da529dd9c63fe7ccb9co.png" group-title="CINE Y SERIES",De Pelicula Plus
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=97|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 #EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://i.ibb.co/ydkbhXX/Imagen12.png" group-title="CINE Y SERIES",De Pelicula
@@ -983,65 +956,6 @@ http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=148|User-Agent=vallanse-a
 
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",DW
 http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=164|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",France 24
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=165|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="RT America" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",RT America
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=166|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="ADN40" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",ADN40
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=168|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",CNN ESPAÑOL
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=169|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="FORO TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",FORO TV
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=170|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="MILENIO TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",MILENIO TV
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=171|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",TELEFORMULA
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=172|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="Fox New" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",Fox New
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=324|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",CNN Internacional
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=325|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
-#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="NOTICIAS",BBC World
-http://ipeteve.com/php/REGIO_PLAY_281119/android.php?c=326|User-Agent=vallanse-a-la-verga-con-sus-php-de-mierda
 
-
-#EXTINF:-1, group-title="ESPAÑA", ETBEITBEUS
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:0,group-title="ESPAÑA", Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:0,group-title="ESPAÑA", ESPAÑA MURCIA
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTVLCOPT:network-caching=1000 group-title="ESPAÑA",TELESAFOR
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:0,group-title="ESPAÑA", SP:Canal Parlamento - Madrid
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-#EXTINF:0,group-title="ESPAÑA", ALCARRIA TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:0, group-title="ESPAÑA",Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:0,group-title="ESPAÑA",MTMAD
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8?sd=10&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on&hdntl=exp=1618601888~acl=%2fi%2fmtmad_1%40744785%2f*~data=hdntl~hmac=066fe3ca7144cfa5ef6e42f416d51dfbaa506917e617d05085fac96f8d16df22
-#EXTINF:0,group-title="ESPAÑA",HBO
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=q0fLpmeJ9i_jrZBi3JtGNg&e=1618538943
-#EXTINF:0,group-title="ESPAÑA",HBO2
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/x5r58d0omlmqph.m3u8?s=Rvwp-VvS6qHCSDIztp3hwQ&e=1618539394
-#EXTINF:0,group-title="ESPAÑA",FOX
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/v0u19cwy59.m3u8?s=guYWRh3pfbAIW9orkbbezQ&e=1618540562
-#EXTINF:0,group-title="ESPAÑA",TNT SERIES
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/uw2t3eem.m3u8?s=-JYBitFbruOozHNYX7_pPw&e=1618540828
-#EXTINF:0,group-title="ESPAÑA",FOX ACTION
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/4612rwe.m3u8?s=saKG5kFRpbWV2H7qCNTFIQ&e=1618541057
-#EXTINF:0,group-title="ESPAÑA",FOX MOVIES
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/4612rwe.m3u8?s=saKG5kFRpbWV2H7qCNTFIQ&e=1618541057
-#EXTINF:0,group-title="ESPAÑA",A PUNT
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
-#EXTINF:0,group-title="ESPAÑA",BEMAD
-https://live.bemad.es/hls/live/2005333/bemad/bitrate_4.m3u8
-#EXTINF:0,group-title="DEPORTES",FIGHTING SPIRIT MMA
-https://stream-us-east-1.getpublica.com/cl/e73baf4f-a3fe-4f48-a741-d4d386741a13/1280x720_2300000_4.m3u8
-#EXTINF:0,group-title="ESPAÑA",
-#EXTINF:0,group-title="ESPAÑA",
-#EXTINF:0,group-title="ESPAÑA",
-#EXTINF:0,group-title="ESPAÑA",
 
 
