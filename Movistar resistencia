@@ -17,6 +17,6 @@ rtp://@239.0.0.5:8208
 rtp://@239.0.0.58:8208
 #EXTINF:-1,[007] M+ #0 {DRM}
 Http://@239.0.0.108:8208
-#EXTINF:-1,[008] M+ #Vamos {DRM}
-rtp://@239.0.1.177:8208
+#EXTINF:-1,[008] M+la liga 
+http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
 
